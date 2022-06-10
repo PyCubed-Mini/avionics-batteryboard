@@ -585,7 +585,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "01" (uuid 1fcfb79a-6d8d-422a-9f0e-a78bc843768b))
-    (pin "10" (uuid c6e0a66c-1a0d-4a98-bcfd-2d9fcc773fcc))
     (pin "02" (uuid 900c1530-e4c4-48d7-9747-b4b6af12a4c3))
     (pin "03" (uuid a2b0061a-984b-4cd9-a18f-663a2f658fa1))
     (pin "04" (uuid 5ebe2e17-693f-4b54-a422-8c530e142bcc))
@@ -594,6 +593,7 @@
     (pin "07" (uuid 01ea23cd-a45f-407f-b28e-84635144de40))
     (pin "08" (uuid 161a14a0-7d16-47b1-ab4e-3ceaf27deb68))
     (pin "09" (uuid 30d93197-beae-4675-9d47-fdcd58d94024))
+    (pin "10" (uuid c6e0a66c-1a0d-4a98-bcfd-2d9fcc773fcc))
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 113.665 88.265 90) (unit 1)
@@ -696,7 +696,7 @@
     (uuid df586b02-02b3-429d-a0c0-fe4a87110a37)
     (property "Reference" "J4" (id 0) (at 153.67 44.45 0))
     (property "Value" "Conn_02x05_Odd_Even" (id 1) (at 153.67 46.99 0))
-    (property "Footprint" "batteryboard:SAMTEC-FTS-105-01-X-DV" (id 2) (at 152.4 55.88 0)
+    (property "Footprint" "batteryboard:FTS-105-XX-YY-DV-A" (id 2) (at 152.4 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 152.4 55.88 0)
@@ -772,7 +772,7 @@
       (reference "J3") (unit 1) (value "Conn_01x02") (footprint "batteryboard:Battery Pads")
     )
     (path "/df586b02-02b3-429d-a0c0-fe4a87110a37"
-      (reference "J4") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "batteryboard:SAMTEC-FTS-105-01-X-DV")
+      (reference "J4") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "batteryboard:FTS-105-XX-YY-DV-A")
     )
   )
 )
