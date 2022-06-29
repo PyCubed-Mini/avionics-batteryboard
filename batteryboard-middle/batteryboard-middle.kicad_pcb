@@ -1903,7 +1903,7 @@
       (net 9 "BATT_P") (pinfunction "Pin_9") (pintype "passive") (tstamp 685ab98e-f2e3-40a7-9ae5-7082f255b5d7))
     (pad "10" smd rect (at 2.54 -1.8425 90) (size 0.74 1.675) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 10 "VBUS") (pinfunction "Pin_10") (pintype "passive") (tstamp e495a08a-adbf-4a76-bf8d-e65562b89d49))
-    (model "C:/Users/Neil/Desktop/avionics-batteryboard/kicad-libs/3d/FLE-105-01-G-DV-A.step"
+    (model "C:/Users/Neil/Desktop/avionics-batteryboard/kicad-libs/3d/FLE-105-01-G-DV-A.step" hide
       (offset (xyz 0 0 0.1524))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))

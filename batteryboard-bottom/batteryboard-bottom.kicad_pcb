@@ -1898,7 +1898,7 @@
   (gr_arc (start 129.299995 78.699995) (mid 129.417153 78.417153) (end 129.699995 78.299996) (layer "Edge.Cuts") (width 0.0254) (tstamp e61d4af2-fd5e-4c71-b8e5-adf6a28a6058))
   (gr_line (start 175.699996 78.299998) (end 129.699995 78.299996) (layer "Edge.Cuts") (width 0.0254) (tstamp f31c8c33-04d0-424b-a637-05838c46cf88))
   (gr_line (start 175.7 118.100009) (end 173.5 118.099995) (layer "Edge.Cuts") (width 0.0254) (tstamp f840fb08-a3c3-47cf-b40d-abb042aa3d19))
-  (gr_text "Bottom Battery Board Rev 1\nGaurav Savant\n" (at 158 121.6) (layer "F.SilkS") (tstamp 808a7feb-0d4a-46cb-b271-831a28ab29e4)
+  (gr_text "Bottom Battery Board Rev 1.1\nGaurav Savant\n" (at 157.999989 121.600011) (layer "F.SilkS") (tstamp 808a7feb-0d4a-46cb-b271-831a28ab29e4)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "26-JUN-22" (at 154.1668 80.8952) (layer "F.Mask") (tstamp 38cefb2f-07a6-412f-bdbb-a34c6b6a44ff)
