@@ -1943,7 +1943,7 @@
   (gr_text "+" (at 154.4 120.5) (layer "F.SilkS") (tstamp bb350fc0-3ad3-4109-8657-eda4d188d777)
     (effects (font (size 4 4) (thickness 0.7)) (justify mirror))
   )
-  (gr_text "Middle Battery Board Rev 1\nGaurav Savant\n" (at 129.3 104.8 90) (layer "F.SilkS") (tstamp bf4592e3-ab65-43fc-99d5-adcea9187ff0)
+  (gr_text "Middle Battery Board\n" (at 129.3 104.8 90) (layer "F.SilkS") (tstamp bf4592e3-ab65-43fc-99d5-adcea9187ff0)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "-" (at 137.8 120.6) (layer "F.SilkS") (tstamp e91059f8-0995-4c0a-9f86-4c6039d3e580)
