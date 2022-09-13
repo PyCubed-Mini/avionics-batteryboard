@@ -58,7 +58,7 @@
       (dxfusepcbnewfont true)
       (psnegative false)
       (psa4output false)
-      (plotreference true)
+      (plotreference false)
       (plotvalue true)
       (plotinvisibletext false)
       (sketchpadsonfab false)
@@ -67,7 +67,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../gerbers/batteryboard-bottom (07-06-22)/")
+      (outputdirectory "../gerbers/batteryboard-bottom (09-09-22)/")
     )
   )
 

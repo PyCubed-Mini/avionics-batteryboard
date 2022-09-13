@@ -58,7 +58,7 @@
       (dxfusepcbnewfont true)
       (psnegative false)
       (psa4output false)
-      (plotreference true)
+      (plotreference false)
       (plotvalue true)
       (plotinvisibletext false)
       (sketchpadsonfab false)
@@ -67,7 +67,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../gerbers/batteryboard-top (07-06-22)/")
+      (outputdirectory "../gerbers/batteryboard-top (09-09-22)/")
     )
   )
 
@@ -5674,7 +5674,7 @@
   (gr_text "In memory of James P. Teza" (at 152 101.3) (layer "B.SilkS") (tstamp d904e5b5-ff94-46ea-a584-f007178403de)
     (effects (font (size 1 1) (thickness 0.15) italic) (justify mirror))
   )
-  (gr_text "Aleksei Seletskiy\nGaurav Savant\nJacob Willis\nKrrish Jain\nNeil Khera\nPaulo Fisch\nYashika Batra\nZac Manchester" (at 150.4 92.7) (layer "F.SilkS") (tstamp 1bbf3589-8b9a-4982-97c9-20da7b7c8380)
+  (gr_text "Aleksei Seletskiy\nGaurav Savant\nJacob Willis\nKarissa Barbu\nKrrish Jain\nMax Holliday\nNeil Khera\nPaulo Fisch\nYashika Batra\nZac Manchester" (at 150.4 92.7) (layer "F.SilkS") (tstamp 1bbf3589-8b9a-4982-97c9-20da7b7c8380)
     (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
   (gr_text "06-SEP-22" (at 146.4 75.6) (layer "F.Mask") (tstamp 62dddbfe-522a-49a7-8408-9ab9fcbd0f8a)
@@ -7803,7 +7803,6 @@
       4785e5af-7a3a-4e7f-8727-5434e27a5060
       47eb5539-25ae-4f84-af49-4174bb1ebee0
       48d6239e-e098-424b-bc8f-3355174d069c
-      4b7db72b-f164-47a4-a269-3726f03ee677
       4daca37e-fbee-4ad6-91ce-78585073fe34
       4ee1d11d-cc0c-4a88-a80e-1cc592c33ff5
       513acee0-7e20-4db6-b834-0af5db3b902c
@@ -7827,7 +7826,6 @@
       95e07e05-60bd-4d89-869e-98f8a644d01b
       9978a360-cbd0-44a2-b0c5-5128e5cb2abd
       9fe0348e-1c03-494b-b65b-99dc55261104
-      a05dbeca-7a55-48d7-9d1e-2fb90b14ecdd
       a3a4b9ea-8328-4cd5-b06b-56fa0cf4fee6
       aa307439-b9d3-4aa9-93dc-e2d437f14fe6
       ab5bbee7-edfe-46e4-a148-2abca6fe0669
@@ -7840,12 +7838,10 @@
       bbbf002f-26b2-471e-a247-a57f60795f0b
       bc3fbea7-9841-483b-b043-08b9d50af1b5
       cc22c5f4-6a68-4464-9585-ac59c4269649
-      d506b9e0-5dbd-4ee9-b406-2356292be30f
       e94a2169-66e2-48f7-9e02-eaebd9f3b88f
       ea73d19a-4016-4e47-b917-817c1581977b
       ecf6b1f2-75e6-4299-8bae-cd90b584dffe
       f44265a9-dd2e-417b-b3c5-99c145d344f5
-      fce9f559-6c56-4f15-b0b6-32a3d29676cd
       fe0898d7-33bf-41fa-9ede-79bb4e91d959
     )
   )
