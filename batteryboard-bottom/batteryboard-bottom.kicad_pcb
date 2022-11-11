@@ -67,7 +67,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../BBB")
+      (outputdirectory "../gerbers/batteryboard-bottom (11-11-22)/")
     )
   )
 
