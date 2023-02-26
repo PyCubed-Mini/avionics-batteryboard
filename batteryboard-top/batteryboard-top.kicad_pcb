@@ -5999,7 +5999,7 @@
   (gr_text "In memory of James P. Teza" (at 152 101.3) (layer "B.SilkS") (tstamp d904e5b5-ff94-46ea-a584-f007178403de)
     (effects (font (size 1 1) (thickness 0.15) italic) (justify mirror))
   )
-  (gr_text "Aleksei Seletskiy\nGaurav Savant\nJacob Willis\nJeffery John\nKarissa Barbu\nKrrish Jain\nMax Holliday\nNeil Khera\nPaulo Fisch\nYashika Batra\nZac Manchester" (at 150.4 92.7) (layer "F.SilkS") (tstamp 1bbf3589-8b9a-4982-97c9-20da7b7c8380)
+  (gr_text "Aleksei Seletskiy\nGaurav Savant\nJacob Willis\nJeffery John\nKarissa Barbu\nKrrish Jain\nMax Holliday\nNeil Khera\nPaulo Fisch\nThomas Damiani \nYashika Batra\nZac Manchester" (at 150.4 92.7) (layer "F.SilkS") (tstamp 1bbf3589-8b9a-4982-97c9-20da7b7c8380)
     (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
   (gr_text "18-FEB-23" (at 146.298003 75.732788) (layer "F.Mask") (tstamp 62dddbfe-522a-49a7-8408-9ab9fcbd0f8a)
