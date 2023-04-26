@@ -6,8 +6,8 @@
 
   (title_block
     (title "PyCubed Mini")
-    (date "2023-02-18")
-    (rev "B3/01")
+    (date "2023-04-12")
+    (rev "B3/02")
     (company "RExLab Carnegie Mellon University")
     (comment 1 "N. Khera")
     (comment 2 "Z. Manchester")
@@ -437,7 +437,7 @@
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 5c26dd20-f029-4d97-97cf-a934358d8351)
   )
-  (text "top batteryboard" (at 122.174 115.062 0)
+  (text "top batteryboard" (at 121.285 113.792 0)
     (effects (font (size 3.81 3.81) (thickness 1.016) bold) (justify left bottom))
     (uuid 8d9e6e47-d918-4bbc-934f-f54ce4c50d5a)
   )

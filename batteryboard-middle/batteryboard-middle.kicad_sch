@@ -6,8 +6,8 @@
 
   (title_block
     (title "PyCubed Mini")
-    (date "2023-02-18")
-    (rev "B3/01")
+    (date "2023-04-12")
+    (rev "B3/02")
     (company "RExLab Carnegie Mellon University")
     (comment 1 "N. Khera")
     (comment 2 "Z. Manchester")

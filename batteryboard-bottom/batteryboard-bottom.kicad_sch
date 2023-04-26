@@ -6,8 +6,8 @@
 
   (title_block
     (title "PyCubed Mini")
-    (date "2023-02-18")
-    (rev "B3/01")
+    (date "2023-04-12")
+    (rev "B3/02")
     (company "RExLab Carnegie Mellon University")
     (comment 1 "N. Khera")
     (comment 2 "Z. Manchester")
@@ -1177,7 +1177,7 @@
     (property "Value" "0.04R" (at 33.401 53.721 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_2512_6332Metric" (at 40.386 52.578 0)
+    (property "Footprint" "batteryboard:R_2512_CurrentSense" (at 40.386 52.578 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.386 52.578 0)
